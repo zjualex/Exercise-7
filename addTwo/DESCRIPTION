@@ -1,9 +1,0 @@
-Package: addTwo
-Type: Package
-Title: An addTwo function
-Version: 1.0
-Date: 2014-12-18
-Author: Yu Ouyang<418614>
-Maintainer: Yu Ouyang<418614yo@student.eur.nl>
-Description: A fuction used for returning the input adding 2.
-License: GPL version 2 or later
