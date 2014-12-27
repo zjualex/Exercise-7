@@ -34,7 +34,7 @@ Maintainer: Yu Ouyang <418614yo@student.eur.nl>
 }
 \examples{
 
-# input 3 into the function, and the result will be 5.
+# input 3 into the function, and the return will be 5.
 a <- addTwo(3)
 
 }
