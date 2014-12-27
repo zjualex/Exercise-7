@@ -1,5 +1,4 @@
-These are two functions for <br />
-ERIM programming course assignment 7<br />
+These are two functions for ERIM programming course assignment 7<br />
 System requirements: <br />
 .R
 
