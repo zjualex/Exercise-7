@@ -1,7 +1,7 @@
 exercise-7
 ==========
 
-The assignment 7 for ERIM programming course: a package of addTwo function
+The assignment 7 for ERIM programming course: a package of two functions
 
 Yu Ouyang<br />
 Erasmus Research Institue of Management<br />
